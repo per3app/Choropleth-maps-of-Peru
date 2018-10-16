@@ -1,7 +1,7 @@
 # Choropleth-maps-of-Peru
 thematic maps developed with data from multiple sources.
 
-#References:
+# References:
 1. How to make choropleth maps with R
 http://bl.ocks.org/prabhasp/raw/5030005/
 
